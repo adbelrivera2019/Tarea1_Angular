@@ -1,0 +1,15 @@
+{
+  "name": "ejemploangular",
+  "version": "1.0.0",
+  "description": "primer ejemplo de Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nuevaAplicacion":"ng --help"
+  },
+  "author": "carg",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^15.1.6"
+  }
+}
