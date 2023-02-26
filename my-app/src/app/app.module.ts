@@ -6,6 +6,7 @@ import { NavegacionComponent } from './navegacion/navegacion.component';
 import { EncabezadoComponent } from './encabezado/encabezado.component';
 import { AlbumComponent } from './album/album.component';
 import { PiepaginaComponent } from './piepagina/piepagina.component';
+import { CarruselComponent } from './carrusel/carrusel.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { PiepaginaComponent } from './piepagina/piepagina.component';
     NavegacionComponent,
     EncabezadoComponent,
     AlbumComponent,
-    PiepaginaComponent
+    PiepaginaComponent,
+    CarruselComponent
   ],
   imports: [
     BrowserModule
